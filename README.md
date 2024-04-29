@@ -1,4 +1,4 @@
-# Sentiment_Analysis
+# Review_Analyzer
 
 This program takes 10 reviews from an amazon product and prompts Chat GTP Turbo 3.5 to 
 1. summarize the reviews
